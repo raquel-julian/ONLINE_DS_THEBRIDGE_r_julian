@@ -1,0 +1,11 @@
+PROBLEMAS QUE ME GUSTARÍA RESOLVER USANDO DATOS
+- Recomendaciones personalizadas: Crear un sistema de recomendaciones personalizadas para servicios de streaming, compras en línea, etc.
+- Detección temprana de enfermedades: Crear un sistema que utilice datos médicos para detectar tempranamente enfermedades como el cáncer.
+- Predicción de tráfico: Desarrollar un modelo predictivo para prever el tráfico en áreas urbanas y optimizar las rutas de conducción.
+- Eficiencia de los trabajadores en una empresa: Desarrollar un sistema que utilice datos para evaluar y mejorar la eficiencia de los trabajadores en una empresa, identificando áreas de mejora y proponiendo soluciones.
+
+CONJUNTOS DE DATOS QUE ME GUSTARÍA USAR
+- Datos de redes sociales, de consumo y preferencias: Acceso a datos de plataformas sociales para analizar tendencias y sentimientos.
+- Datos de investigación médica: Conjuntos de datos que contengan información médica para estudios epidemiológicos
+- Datos de tráfico y movilidad: Información sobre flujos de tráfico, congestiones y movilidad en ciudades.
+- Datos de tiempo y asistencia, productividad, satisfacción y compromiso, evaluaciones de desempeño, rotación de empleados, carga de trabajo, salud y bienestar, htas y tecnologias.
