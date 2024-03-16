@@ -9,3 +9,11 @@ CONJUNTOS DE DATOS QUE ME GUSTARÍA USAR
 - Datos de investigación médica: Conjuntos de datos que contengan información médica para estudios epidemiológicos
 - Datos de tráfico y movilidad: Información sobre flujos de tráfico, congestiones y movilidad en ciudades.
 - Datos de tiempo y asistencia, productividad, satisfacción y compromiso, evaluaciones de desempeño, rotación de empleados, carga de trabajo, salud y bienestar, htas y tecnologias.
+
+
+_____________________________________________________________________________
+
+v2 LISTAS EDA (no predictivas!)
+
+- Análisis del trafico actual en carreteras catalanas.
+- Eficiencia de los trabajadores en una empresa.
