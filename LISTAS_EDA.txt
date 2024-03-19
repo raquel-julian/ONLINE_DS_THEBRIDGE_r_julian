@@ -17,3 +17,7 @@ v2 LISTAS EDA (no predictivas!)
 
 - Análisis del trafico actual en carreteras catalanas.
 - Eficiencia de los trabajadores en una empresa.
+- Ajedrez:
+	analisis de jugadores
+	analisis de torneos y eventos
+	datos de partidas 
