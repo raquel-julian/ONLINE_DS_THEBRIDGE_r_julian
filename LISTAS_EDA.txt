@@ -21,3 +21,5 @@ v2 LISTAS EDA (no predictivas!)
 	analisis de jugadores
 	analisis de torneos y eventos
 	datos de partidas 
+
+
